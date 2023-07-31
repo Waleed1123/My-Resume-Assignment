@@ -1,0 +1,77 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+  background-color: rgba(7, 71, 7, 0.2);
+}
+h1{
+  /* display: inline-block; */
+  margin: 15px auto;
+  text-align: center;
+  color: teal;
+  background-color:rgb(255, 255, 224, 0.4);
+  width: 100%;
+}
+h3{
+  color: seagreen;
+  text-align: center;
+  /* border-bottom: 1px solid black; */
+}
+
+.first-ul > li {
+  list-style-type: none;
+  display: inline;
+  margin: 0px 20px 0px 190px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  /* margin: 10px auto; */
+}
+hr{
+  width: 95%;
+  border: 3px solid burlywood;
+
+}
+.stu{
+  text-align: center;
+  color: seagreen;
+}
+.learning > li{
+  list-style-type:decimal;
+  margin: 0 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  /* color:goldenrod; */
+}
+
+.last-ul > li{
+  list-style-type: decimal;
+  font-weight: bold;
+  margin-bottom: 8px;
+  /* background-color: lightgray; */
+  text-align: center;
+}
+.education > li {
+  list-style: none;
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color:rgba(7, 71, 7, 0.8);
+  margin: 10px auto;
+  width: 50%;
+  margin-bottom: 50px;
+}
+h2.matric{
+  color: seagreen;
+  font-size: 1.5rem;
+  text-align: center;
+}
+h2.agha{
+  text-align: center;
+  color:olivedrab;
+}
